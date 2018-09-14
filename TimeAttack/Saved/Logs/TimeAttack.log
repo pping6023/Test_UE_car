@@ -577,3 +577,278 @@ LogInit: Object subsystem initialized
 [2018.09.14-05.46.40:697][157]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
 [2018.09.14-05.46.46:801][262]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap17BD9F914BE95A05306630B73CED13EC.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/VehicleBP/Maps/VehicleExampleMap.umap'
 [2018.09.14-05.46.48:783][262]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap_BuiltData7F4F81F74B1528C1D7F2EF851B244830.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2018.09.14-05.50.34:228][378]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-05.50.48:733][552]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_CheckpointsBB322D4444C0D769C174C58A928C3365.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/StarterContent/Blueprints/BP_Checkpoints.uasset'
+[2018.09.14-05.51.49:994][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:995][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.49:996][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.09.14-05.51.50:013][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:014][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.51.50:015][417]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.09.14-05.54.14:032][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-05.54.14:102][916]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-05.55.06:489][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-05.56.02:110][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-05.56.02:414][689]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-05.56.03:906][719]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_Checkpoints137BF1B047FDC8EBD91713A5E5EBF85B.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/StarterContent/Blueprints/BP_Checkpoints.uasset'
+[2018.09.14-05.56.14:319][825]LogSlate: Took 0.008459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.14-05.56.38:958][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-05.57.50:750][413]LogSlate: Took 0.010873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.14-05.58.42:868][974]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.00.46:854][300]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.06.32:657][588]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap_Auto5E6F7366D44BD98878A9D92941FF27E2B.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto5.umap'
+[2018.09.14-06.06.32:663][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.523
+[2018.09.14-06.06.32:663][588]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.523
+[2018.09.14-06.06.32:666][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Blueprints/BP_Checkpoints] ([1] browsable assets)...
+[2018.09.14-06.06.32:667][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/BP_Checkpoints]
+[2018.09.14-06.06.32:752][588]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_Checkpoints_Auto57C85D6D540698DEF0630C0A4200067D9.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/Autosaves/Game/StarterContent/Blueprints/BP_Checkpoints_Auto5.uasset'
+[2018.09.14-06.06.32:755][588]LogFileHelpers: Auto-saving content packages took 0.092
+[2018.09.14-06.10.40:717][250]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.15.22:689][559]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.15.23:816][574]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_Checkpoints39230B254B54A50FCF14A0B5FC394949.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/StarterContent/Blueprints/BP_Checkpoints.uasset'
+[2018.09.14-06.16.51:572][839]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap_Auto6F07ED2414B6400E21A98DBA9CCA3CA5D.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto6.umap'
+[2018.09.14-06.16.51:580][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.419
+[2018.09.14-06.16.51:580][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.419
+[2018.09.14-06.19.27:039][965]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.20.03:144][691]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.20.04:335][718]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_Checkpoints2CAF0CE4442C8CC502FD9D8D5031C755.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/StarterContent/Blueprints/BP_Checkpoints.uasset'
+[2018.09.14-06.20.34:209][308]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.25.52:687][797]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.26.10:720][969]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_CheckpointsB4409B1342A6FCDF8C189F9C761C0C0B.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/StarterContent/Blueprints/BP_Checkpoints.uasset'
+[2018.09.14-06.26.55:889][327]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-06.26.55:935][327]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.26.55:935][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-06.26.55:936][327]PIE: New page: PIE session: VehicleExampleMap (Sep 15, 2018, 12:26:55 AM)
+[2018.09.14-06.26.55:936][327]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.09.14-06.26.55:964][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027896s)
+[2018.09.14-06.26.55:965][327]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.09.14-06.26.55:965][327]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2018.09.14-06.26.55:965][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.029259s)
+[2018.09.14-06.26.56:025][327]LogInit: XAudio2 using '헤드폰(Cirrus Logic CS8409 (AB 54))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-06.26.56:043][327]LogInit: FAudioDevice initialized.
+[2018.09.14-06.26.56:077][327]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.09.14-06.26.56:083][327]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.09.14-15.26.56
+[2018.09.14-06.26.56:083][327]LogWorld: Bringing up level for play took: 0.005094
+[2018.09.14-06.26.56:098][327]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.893
+[2018.09.14-06.26.56:107][327]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.27.53:128][295]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'K2Node_MakeArray_Array' of length 8 in '/Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints'!
+[2018.09.14-06.27.53:129][295]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Checkpoints_C /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Checkpoints
+	Function /Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints:011C
+[2018.09.14-06.27.53:129][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Checkpoints Function:  Execute Ubergraph BP Checkpoints Graph:  EventGraph Node:  SetWorldTransform
+[2018.09.14-06.28.16:422][442]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'K2Node_MakeArray_Array' of length 8 in '/Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints'!
+[2018.09.14-06.28.16:422][442]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Checkpoints_C /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Checkpoints
+	Function /Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints:011C
+[2018.09.14-06.28.16:422][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Checkpoints Function:  Execute Ubergraph BP Checkpoints Graph:  EventGraph Node:  SetWorldTransform
+[2018.09.14-06.28.26:922][964]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'K2Node_MakeArray_Array' of length 8 in '/Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints'!
+[2018.09.14-06.28.26:922][964]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Checkpoints_C /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Checkpoints
+	Function /Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints:011C
+[2018.09.14-06.28.26:923][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Checkpoints Function:  Execute Ubergraph BP Checkpoints Graph:  EventGraph Node:  SetWorldTransform
+[2018.09.14-06.28.47:263][  9]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'K2Node_MakeArray_Array' of length 8 in '/Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints'!
+[2018.09.14-06.28.47:263][  9]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Checkpoints_C /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Checkpoints
+	Function /Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints:011C
+[2018.09.14-06.28.47:264][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Checkpoints Function:  Execute Ubergraph BP Checkpoints Graph:  EventGraph Node:  SetWorldTransform
+[2018.09.14-06.28.50:901][202]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'K2Node_MakeArray_Array' of length 8 in '/Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints'!
+[2018.09.14-06.28.50:901][202]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Checkpoints_C /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Checkpoints
+	Function /Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints:011C
+[2018.09.14-06.28.50:901][202]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Checkpoints Function:  Execute Ubergraph BP Checkpoints Graph:  EventGraph Node:  SetWorldTransform
+[2018.09.14-06.28.59:321][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.28.59:322][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-06.28.59:382][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-06.28.59:383][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.28.59:424][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-06.28.59:468][657]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.14-06.29.38:521][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2018.09.14-06.30.28:878][522]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap_Auto7DB47455C45777D96BC3A278C783E534D.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto7.umap'
+[2018.09.14-06.30.28:890][522]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.531
+[2018.09.14-06.30.28:890][522]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.531
+[2018.09.14-06.30.46:741][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-06.30.46:834][580]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-06.30.46:872][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.30.46:873][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-06.30.46:873][580]PIE: New page: PIE session: VehicleExampleMap (Sep 15, 2018, 12:30:46 AM)
+[2018.09.14-06.30.46:873][580]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.09.14-06.30.46:896][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022367s)
+[2018.09.14-06.30.46:896][580]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.09.14-06.30.46:897][580]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.09.14-06.30.46:897][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.023668s)
+[2018.09.14-06.30.46:955][580]LogInit: XAudio2 using '헤드폰(Cirrus Logic CS8409 (AB 54))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-06.30.46:972][580]LogInit: FAudioDevice initialized.
+[2018.09.14-06.30.47:010][580]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.09.14-06.30.47:016][580]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.09.14-15.30.47
+[2018.09.14-06.30.47:016][580]LogWorld: Bringing up level for play took: 0.004896
+[2018.09.14-06.30.47:031][580]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.173
+[2018.09.14-06.30.47:041][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.31.13:716][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.14-06.32.03:789][699]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'K2Node_MakeArray_Array' of length 8 in '/Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints'!
+[2018.09.14-06.32.03:789][699]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Checkpoints_C /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap:PersistentLevel.BP_Checkpoints
+	Function /Game/StarterContent/Blueprints/BP_Checkpoints.BP_Checkpoints_C:ExecuteUbergraph_BP_Checkpoints:011C
+[2018.09.14-06.32.03:789][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_Checkpoints Function:  Execute Ubergraph BP Checkpoints Graph:  EventGraph Node:  SetWorldTransform
+[2018.09.14-06.32.17:065][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.32.17:066][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-06.32.17:122][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-06.32.17:122][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.32.17:172][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-06.32.17:282][146]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.14-06.32.25:114][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-06.32.38:421][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-06.34.55:596][926]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.36.30:338][567]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.37.36:226][537]BlueprintLog: New page: Compile BP_Checkpoints
+[2018.09.14-06.37.37:827][585]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/BP_Checkpoints1A3EBCDD42894F1FCBAE5DB59A0E6E45.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/StarterContent/Blueprints/BP_Checkpoints.uasset'
+[2018.09.14-06.37.44:113][814]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.14-06.37.44:147][814]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.37.44:148][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.14-06.37.44:148][814]PIE: New page: PIE session: VehicleExampleMap (Sep 15, 2018, 12:37:44 AM)
+[2018.09.14-06.37.44:150][814]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.09.14-06.37.44:177][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027309s)
+[2018.09.14-06.37.44:178][814]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.09.14-06.37.44:178][814]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.09.14-06.37.44:179][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.028766s)
+[2018.09.14-06.37.44:247][814]LogInit: XAudio2 using '헤드폰(Cirrus Logic CS8409 (AB 54))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.14-06.37.44:266][814]LogInit: FAudioDevice initialized.
+[2018.09.14-06.37.44:297][814]LogLoad: Game class is 'VehicleGameMode_C'
+[2018.09.14-06.37.44:302][814]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.09.14-15.37.44
+[2018.09.14-06.37.44:303][814]LogWorld: Bringing up level for play took: 0.004359
+[2018.09.14-06.37.44:317][814]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.113
+[2018.09.14-06.37.44:317][814]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.39.01:577][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.39.01:578][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-06.39.01:620][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.14-06.39.01:621][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.09.14-06.39.01:664][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.14-06.39.01:697][764]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.09.14-06.39.03:644][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.14-06.39.04:241][854]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMapBAA520F34866B96FE3A9E19F00940020.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2018.09.14-06.39.06:241][854]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap_BuiltData70BB09194F86C9DD3F6402A6989487F5.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2018.09.14-06.39.15:767][296]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.09.14-06.39.19:474][296]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.14-06.39.27:273][556]MapCheck: New page: Map Check
+[2018.09.14-06.39.27:314][556]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.14-06.39.27:315][556]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.14-06.39.27:425][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.09.14-06.39.27:434][556]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-06.39.27:434][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy GrayMaterial, compiling. 
+[2018.09.14-06.39.27:442][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.09.14-06.39.27:451][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.09.14-06.39.27:459][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-06.39.27:459][556]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-06.39.27:459][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Vehicle_Sedan_Inst_Plastic, compiling. 
+[2018.09.14-06.39.27:467][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Vehicle_Sedan_Inst_Glass, compiling. 
+[2018.09.14-06.39.27:475][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.09.14-06.39.27:484][556]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.14-06.39.29:440][556]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.14-06.39.29:441][556]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.14-06.39.29:441][556]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.14-06.39.29:441][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.14-06.39.29:441][556]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.14-06.39.29:441][556]TextureStreamingBuild: Display: Compiling optional shaders took 2.019 seconds.
+[2018.09.14-06.39.29:455][556]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2018.09.14-06.39.29:494][556]TextureStreamingBuild: Display: Build Texture Streaming took 0.039 seconds.
+[2018.09.14-06.39.29:528][556]LightingResults: New page: Lighting Build - Sep 15, 2018, 12:39:29 AM
+[2018.09.14-06.39.29:541][556]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.14-06.39.29:549][556]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.14-06.39.29:549][556]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.14-06.39.29:550][556]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.14-06.39.29:550][556]LogSwarmInterface: [TryOpenConnection] Local Process ID is 41484
+[2018.09.14-06.39.34:096][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.14-06.39.34:096][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.14-06.39.34:096][556]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.14-06.39.34:096][556]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.14-06.39.34:096][556]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.14-06.39.34:366][556]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.14-06.39.34:366][556]MapCheck: New page: VehicleExampleMap - Sep 15, 2018, 12:39:34 AM
+[2018.09.14-06.39.34:540][556]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 173.754ms to complete.
+[2018.09.14-06.39.34:563][556]LogEditorBuildUtils: Build time 0:07
+[2018.09.14-06.41.19:079][508]Job is a success!
+[2018.09.14-06.41.19:664][509]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.395s
+[2018.09.14-06.41.19:665][509]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2018.09.14-06.41.19:665][509]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 5.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.09.14-06.41.19:665][509]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.14-06.41.19:665][509]LogVolumetricLightmapImport:          0: 3.2% covering 100.0% of volume
+[2018.09.14-06.41.19:665][509]LogVolumetricLightmapImport:          1: 5.3% covering 2.6% of volume
+[2018.09.14-06.41.19:665][509]LogVolumetricLightmapImport:          2: 91.5% covering 0.7% of volume
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 512X256)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 512X256)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 512X512)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 512X512)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 64X32)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2018.09.14-06.41.25:172][509]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2018.09.14-06.41.25:592][509]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2018.09.14-06.41.25:592][509]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2018.09.14-06.41.25:667][509]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X256)
+[2018.09.14-06.41.25:667][509]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X128)
+[2018.09.14-06.41.25:667][509]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 8X1024)
+[2018.09.14-06.41.25:668][509]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 32X32)
+[2018.09.14-06.41.25:668][509]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X256)
+[2018.09.14-06.41.25:769][509]LogStaticLightingSystem: Illumination: 1:56 min (5.03 sec encoding lightmaps, 486 ms encoding shadowmaps)
+[2018.09.14-06.41.25:769][509]LogStaticLightingSystem: Lightmap texture memory:  22.8 MB (12.2 MB streaming, 10.7 MB non-streaming), 12 textures
+[2018.09.14-06.41.25:769][509]LogStaticLightingSystem: Shadowmap texture memory: 3.4 MB (2.0 MB streaming, 1.3 MB non-streaming), 7 textures
+[2018.09.14-06.41.26:243][509]DumpUnbuiltLightIteractions
+[2018.09.14-06.41.26:243][509]Lights with unbuilt interactions: 0
+[2018.09.14-06.41.26:243][509]
+[2018.09.14-06.41.26:243][509]Primitives with unbuilt interactions: 0
+[2018.09.14-06.41.26:377][510]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.14-06.41.26:377][510]MapCheck: New page: VehicleExampleMap - Sep 15, 2018, 12:41:26 AM
+[2018.09.14-06.41.26:554][510]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 176.42ms to complete.
+[2018.09.14-06.42.21:428][980]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap8275D82A4D1BC63DC23BDC832417D0BC.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2018.09.14-06.42.23:409][980]LogSavePackage: Moving '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Saved/VehicleExampleMap_BuiltData40C97FAA4EC3E8C8A41CA9B96857C9D5.tmp' to '../../../../../../Users/kara1978/Documents/Unreal Projects/Test_UE_car/TimeAttack/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
